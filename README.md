@@ -17,7 +17,7 @@
 
 ## The challenge
 
-A hooded figure disappears into a rain-soaked alley. Your challenge begins with a single video.
+Your challenge begins with a single video.
 
 **Your objective: find the final flag.**
 
