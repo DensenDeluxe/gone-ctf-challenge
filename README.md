@@ -19,7 +19,11 @@
 
 Your challenge begins with a single video.
 
-**Your objective: find the final flag.**
+**Gone doesn’t mean lost.
+
+Somewhere inside gone.mp4, a trail leads to flag.png. Follow the traces, uncover the layers, and recover the image.
+
+Download the original file without re-encoding or remuxing it. Expect file-format analysis, steganography, cryptography, and offline signal processing. Standard tools and custom scripts are allowed. No radio hardware or interaction with live networks is required.**
 
 <br>
 
