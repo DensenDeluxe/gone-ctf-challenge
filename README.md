@@ -19,7 +19,7 @@
 
 Your challenge begins with a single video.
 
-**Gone doesn’t mean lost.
+Gone doesn’t mean lost.
 
 Somewhere inside gone.mp4, a trail leads to flag.png. Follow the traces, uncover the layers, and recover the image.
 
